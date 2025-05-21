@@ -1,0 +1,22 @@
+# 依赖目录
+node_modules/
+
+# 构建输出
+/dist
+
+# 本地环境变量
+.env
+.env.local
+
+# 日志文件
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 编辑器目录
+.idea/
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
